@@ -9,6 +9,6 @@ email: arzankatki@gmail.com # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://iconscout.com/icons/linkedin # can be png, svg, jpg
+  logo: https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg # can be png, svg, jpg
   title: Linkedin
   url: https://www.linkedin.com/in/arzan-katki/
