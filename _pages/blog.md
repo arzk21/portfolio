@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /reaserch/
 title: Reaserch
 nav: false
 nav_order: 1
